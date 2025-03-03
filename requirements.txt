@@ -1,4 +1,7 @@
 fastapi
-re
+uvicorn
+langchain
 langchain-community
-
+faiss-cpu
+sentence-transformers
+jinja2
