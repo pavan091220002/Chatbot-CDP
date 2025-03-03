@@ -1,0 +1,4 @@
+fastapi
+re
+langchain-community
+uvicorn
